@@ -52,6 +52,13 @@ font-weight: 500;
 .footer h1 {
    font-size: 1em !important;
     text-align: center !important;
+    word-wrap:break-word !important;
 }
 
+.lightBlue{
+    background-color: rgba(131, 230, 227, 1)  !important;
+    border: none;
+    text-shadow: 0 0px 0 #f3f3f3 !important;
+
+}
 
