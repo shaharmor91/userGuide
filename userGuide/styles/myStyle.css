@@ -56,9 +56,15 @@ font-weight: 500;
 }
 
 .lightBlue{
-    background-color: rgba(131, 230, 227, 1)  !important;
+/*    background-color: rgba(131, 230, 227, 1)  !important;*/
     border: none;
     text-shadow: 0 0px 0 #f3f3f3 !important;
 
 }
 
+
+.lightBlue img {
+    width: 15%;
+    display: block;
+   margin: auto;
+}
