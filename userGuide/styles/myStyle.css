@@ -1,4 +1,18 @@
-﻿body 
+body 
 {
+    font-size: 0.9em !important;
+}
 
+h3{
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+
+.ui-btn-icon-left:after {
+    right: .5625em !important;
+}
+
+.ui-collapsible-heading .ui-btn {
+    text-align: right !important;
+    padding-right: 39px !important;
 }
