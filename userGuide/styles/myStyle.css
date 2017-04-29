@@ -1,11 +1,31 @@
 body 
 {
     font-size: 0.9em !important;
+    color: rgba(49, 75, 90, 1) !important;
+
+}
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    background-color: #f9fff4 !important;
+    color: rgba(49, 75, 90, 1) !important;
 }
 
 h3{
     font-size: 16px !important;
     font-weight: 700 !important;
+}
+
+.ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html head+body .ui-btn.ui-btn-a, .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html head+body .ui-btn.ui-btn-a:visited {
+    
+     background-color: #314b5a !important;
+    border-color: #ddd !important;
+    color: #fff !important;
+    text-shadow: 0 0px 0 #f3f3f3 !important;
+}
+
+.ui-body-a, .ui-page-theme-a .ui-body-inherit, html .ui-bar-a .ui-body-inherit, html .ui-body-a .ui-body-inherit, html body .ui-group-theme-a .ui-body-inherit, html .ui-panel-page-container-a{
+        color: rgba(49, 75, 90, 1) !important;
+
 }
 
 .ui-btn-icon-left:after {
