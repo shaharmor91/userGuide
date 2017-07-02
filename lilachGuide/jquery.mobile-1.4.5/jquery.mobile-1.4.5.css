@@ -590,7 +590,7 @@ html.ui-nosvg .ui-btn.ui-checkbox-on:after {
 }
 .ui-nosvg .ui-alt-icon.ui-icon-carat-l:after,
 .ui-nosvg .ui-alt-icon .ui-icon-carat-l:after {
-	background-image: url(images/icons-png/carat-l-black.png);
+	background-image: url(icons-png/carat-l-black.png);
 }
 .ui-nosvg .ui-alt-icon.ui-icon-carat-r:after,
 .ui-nosvg .ui-alt-icon .ui-icon-carat-r:after {
