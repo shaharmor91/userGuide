@@ -28,9 +28,14 @@ h1{
     width: 160px ;
     height: 5px;
     border-style: none !important;
-    float: right;
-    margin: -3px !important;
+    float: right !important;
+    padding: 0px !important;
     border-radius: 5px;
+    display: block !important;
+    margin-top: 75px;
+    margin-right: -170px;
+    
+    
 }
 
 h2{
@@ -118,4 +123,16 @@ h3{
 
 .ui-content{
     overflow-x: visible !important;
+}
+
+#headLine {
+    float: right !important;
+    display: inline-block !important;
+    text-align: right !important;
+    margin: 0px !important;
+    padding: 1em !important;
+}
+.lightBlue img{
+    float: left;
+     display: inline-block;
 }
